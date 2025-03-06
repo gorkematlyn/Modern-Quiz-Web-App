@@ -4,7 +4,7 @@ A simple and interactive quiz application built with PHP and MySQL. Users can ta
 
 ## Demo
 
-You can try the demo version of this application here: [Quiz App Demo](https://gorkematlyn.github.io/Modern-Quiz-Web-App/demo/)
+You can try the demo version of this application here: [Quiz App Demo](https://gorkematlyn.github.io/Modern-Quiz-Web-App/)
 
 ## Features
 

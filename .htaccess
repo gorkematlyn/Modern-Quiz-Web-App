@@ -1,0 +1,7 @@
+RewriteEngine On
+
+# Kategori URL'lerini düzenle
+RewriteRule ^kategori/([a-zA-Z0-9-]+)$ index.php?category=$1 [L,QSA]
+
+# Ana sayfa için
+RewriteRule ^$ index.php [L] 
